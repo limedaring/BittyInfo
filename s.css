@@ -1,0 +1,25 @@
+/* CSS RESET */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, big, cite, em, img, samp, small, strike, strong, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend { margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; }
+ol, ul { list-style: none; }
+html { background-color:#6cb1b0; }
+body { font:62.5%/1.6 'Lucida Grande', Arial, sans-serif; color:#2d4a4a; }
+body#i { }
+a { color:#e4f1f1; text-decoration:none; }
+#h { background-color:#162323; overflow:hidden; padding:0.2em 0; }
+h1,h2,h3 { color:#fff; font-weight:normal; font-size:1.4em; }
+h1 { float:left; font-weight:300; }
+#h form { float:right; }
+form input#n-b { color:#666; margin:4px 5px 0 0; width:270px; padding-left:5px; }
+form input#b { background:none; border:2px solid rgba(0,0,0,0.2); background-color:#dba16e; color:#fff; padding:0.1em 1em; position:relative; top:1px; font-size:12px; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; cursor: hand; }
+#i form input {
+	font-size: 1em;
+}
+.w { width:960px; margin:0 auto; font-size:1.4em; }
+#i .w { width:400px; font-size:1.6em; }
+#p-h img { float:left; border:15px solid rgba(0,0,0,0.1); margin:30px 40px 20px -15px; }
+h2, #i h1 { font-size:5em; padding-top:20px; text-shadow:-1px -1px rgba(0,0,0,0.3); font-weight:100; }
+#i h1 { float:none; font-size: 9em; font-weight: 300; }
+#i p { margin:-30px 0 10px 0; }
+h3 { color: #000; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:-10px; font-weight:700; }
+li { margin:1em 0; }
+.c { clear:both; }
